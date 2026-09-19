@@ -1,3 +1,31 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:333333&height=200&section=header&text=SAKSHAM%20KANNOJIA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creative%20Technologist%20%7C%20Creator&descAlignY=58&descSize=17" />
+
+# 👋 Hey, I'm Saksham
+
+### 💻 Developer • 🎬 Creative Technologist • 🚀 Creator
+
+Building things, learning constantly, and turning ideas into digital experiences.
+
+<br>
+
+<a href="https://www.linkedin.com/in/saksham-kannojia-435873381/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/skeditz.fx/">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/SakshamKannojia">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 🎓 B.Tech CSE Student  
@@ -39,6 +67,7 @@ I like building digital experiences, experimenting with new technologies, and tu
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🌐 Web Development
@@ -47,7 +76,9 @@ Responsive web experiences built with modern frontend technologies.
 
 **Tech:** React • JavaScript • HTML • CSS
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">🔗 Explore Projects</a>
+<a href="https://github.com/SakshamKannojia?tab=repositories">
+🔗 Explore Projects
+</a>
 
 </td>
 
@@ -59,12 +90,16 @@ Exploring AI and technology to create useful digital experiences.
 
 **Tech:** Python • AI • Web Development
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">🔗 Explore Projects</a>
+<a href="https://github.com/SakshamKannojia?tab=repositories">
+🔗 Explore Projects
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### ⚡ Smart Energy Monitoring
@@ -73,7 +108,9 @@ IoT-based energy monitoring system using connected hardware and sensors.
 
 **Tech:** ESP32 • IoT • Blynk • Sensors
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">🔗 Explore Projects</a>
+<a href="https://github.com/SakshamKannojia?tab=repositories">
+🔗 Explore Projects
+</a>
 
 </td>
 
@@ -85,9 +122,12 @@ Combining design, interaction, and technology to build engaging websites.
 
 **Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">🔗 Explore Projects</a>
+<a href="https://github.com/SakshamKannojia?tab=repositories">
+🔗 Explore Projects
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -97,9 +137,11 @@ Combining design, interaction, and technology to build engaging websites.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SakshamKannojia&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=SakshamKannojia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamKannojia&layout=compact&theme=transparent&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamKannojia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -109,17 +151,7 @@ Combining design, interaction, and technology to build engaging websites.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SakshamKannojia&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamKannojia&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=SakshamKannojia&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -186,12 +218,6 @@ I enjoy combining **technology + storytelling + design** to create experiences t
 ### 💭 Build. Experiment. Create. Repeat.
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=SakshamKannojia&style=flat-square&color=000000" alt="Profile Views" />
-
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:0f0f0f&height=100&section=footer" />
 
