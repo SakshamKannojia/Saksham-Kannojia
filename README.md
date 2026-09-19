@@ -1,224 +1,308 @@
-<div align="center">
+<!-- ======================= HEADER ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:333333&height=200&section=header&text=SAKSHAM%20KANNOJIA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creative%20Technologist%20%7C%20Creator&descAlignY=58&descSize=17" />
-
-# 👋 Hey, I'm Saksham
-
-### 💻 Developer • 🎬 Creative Technologist • 🚀 Creator
-
-Building things, learning constantly, and turning ideas into digital experiences.
-
-<br>
-
-<a href="https://www.linkedin.com/in/saksham-kannojia-435873381/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/skeditz.fx/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/SakshamKannojia">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 B.Tech CSE Student  
-💻 Developer & Builder  
-🎬 Video Editor & Visual Creator  
-🚀 Exploring Web Development & AI  
-⚡ Creative Technology Enthusiast  
-🌱 Always learning something new  
-
-I'm a Computer Science student who enjoys combining **technology, creativity, and visual storytelling**.
-
-I like building digital experiences, experimenting with new technologies, and turning ideas into real projects.
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:2563eb&height=220&section=header&text=Saksham%20Kannojia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
-### 🌐 Web & Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Developer+%26+Builder;Creative+Technologist;Video+Editor+%26+Visual+Creator;Exploring+Web+Development+%26+AI;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG"/>
 </p>
 
-### 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KR%20Mangalam%20University-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="center">
+  <a href="https://github.com/SakshamKannojia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saksham-kannojia-435873381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/skeditz.fx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakshamKannojia&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/SakshamKannojia?style=for-the-badge&color=6366f1&label=FOLLOWERS"/>
 </p>
 
 ---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science student** and a developer & builder interested in the intersection of **technology, creativity and visual storytelling**.
+
+I enjoy building digital experiences while continuously exploring **web development, AI and creative technology**.
+
+- 💻 Building and experimenting with software projects
+- 🌐 Exploring web development
+- 🤖 Exploring AI and emerging technologies
+- 🎬 Video editing, photography & visual storytelling
+- 🚀 Interested in turning ideas into real digital experiences
+- 🎨 Combining engineering with creativity
+- 🧠 Learning constantly through hands-on projects
+
+### Open To
+
+- 🤝 Collaborations
+- 🚀 Interesting projects
+- 💻 Development opportunities
+- 🎬 Creative-tech projects
+- 🌐 Web & digital experiences
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+<!-- ======================= AI / ML ======================= -->
+
+## 🤖 AI / ML Exploration
+
+| Domain | Focus |
+|---|---|
+| Artificial Intelligence | Exploring AI concepts and applications |
+| Machine Learning | Learning ML fundamentals |
+| Generative AI | Exploring AI-powered experiences |
+| AI + Development | Understanding how AI can enhance software projects |
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+<details>
+<summary><b>⚡ Smart Energy Monitoring</b></summary>
 
-<td width="50%">
+### Smart Energy Monitoring
 
-### 🌐 Web Development
+A technology-focused project exploring **smart energy monitoring and digital visualization**.
 
-Responsive web experiences built with modern frontend technologies.
+| Category | Details |
+|---|---|
+| Stack | IoT + Software |
+| Focus | Energy monitoring |
+| Approach | Hardware + digital monitoring |
+| Impact | Understanding real-world IoT applications |
+| Repository | Coming soon |
 
-**Tech:** React • JavaScript • HTML • CSS
+</details>
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">
-🔗 Explore Projects
-</a>
+<details>
+<summary><b>🌐 Web Development Projects</b></summary>
 
-</td>
+### Web Development
 
-<td width="50%">
+Building and experimenting with websites and digital experiences while learning modern web development.
 
-### 🤖 AI & Technology
+| Category | Details |
+|---|---|
+| Focus | Web development |
+| Design | Modern digital experiences |
+| Development | Frontend & web technologies |
+| Goal | Build practical digital products |
+| Repository | Explore my GitHub |
 
-Exploring AI and technology to create useful digital experiences.
+</details>
 
-**Tech:** Python • AI • Web Development
+<details>
+<summary><b>🎨 Creative Technology Projects</b></summary>
 
-<a href="https://github.com/SakshamKannojia?tab=repositories">
-🔗 Explore Projects
-</a>
+### Creative Technology
 
-</td>
+Projects and experiments combining **technology, design and visual storytelling**.
 
-</tr>
+| Category | Details |
+|---|---|
+| Focus | Creative technology |
+| Media | Video, photography & digital content |
+| Approach | Technology + creativity |
+| Goal | Create engaging digital experiences |
+| Instagram | [SK Editz](https://www.instagram.com/skeditz.fx/) |
 
-<tr>
-
-<td width="50%">
-
-### ⚡ Smart Energy Monitoring
-
-IoT-based energy monitoring system using connected hardware and sensors.
-
-**Tech:** ESP32 • IoT • Blynk • Sensors
-
-<a href="https://github.com/SakshamKannojia?tab=repositories">
-🔗 Explore Projects
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎨 Creative Web Experiences
-
-Combining design, interaction, and technology to build engaging websites.
-
-**Tech:** HTML • CSS • JavaScript
-
-<a href="https://github.com/SakshamKannojia?tab=repositories">
-🔗 Explore Projects
-</a>
-
-</td>
-
-</tr>
-</table>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ======================= EXPERIENCE ======================= -->
 
-<div align="center">
+## 💼 Experience & Activities
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamKannojia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+### Developer & Creative Technologist
 
-<br><br>
+Working across software development and creative technology, combining technical experimentation with visual creativity.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamKannojia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SakshamKannojia&theme=tokyonight&hide_border=true" />
-
-</div>
+**Focus:**
+- Web development
+- Digital experiences
+- Creative technology
+- Video editing
+- Photography
+- Visual storytelling
 
 ---
 
-## 🔭 Currently
+### EOZKA CODING CLUB
 
-- 🚀 Building real-world projects
-- 💻 Improving my development skills
-- 🤖 Exploring AI & modern technologies
-- 🌐 Learning full-stack development
-- 🎬 Creating visual content
-- ⚡ Experimenting with new ideas
+Working with a digital-focused environment around:
 
----
-
-## 🎬 Beyond Code
-
-When I'm not coding, I'm usually creating something visual.
-
-🎥 **Videography**  
-📷 **Photography**  
-🎬 **Video Editing**  
-🎞️ **Cinematography**  
-🎨 **Visual Design**
-
-I enjoy combining **technology + storytelling + design** to create experiences that look good and work well.
+- 🌐 Websites
+- 🎨 Branding
+- 💻 Digital solutions
+- 🚀 Digital experiences
+- 📱 Social media & content
 
 ---
 
-## 🎯 2026 Goals
+<!-- ======================= ACHIEVEMENTS ======================= -->
 
-- [ ] Build more real-world projects
-- [ ] Contribute to open source
-- [ ] Improve full-stack development
-- [ ] Explore AI & emerging technologies
-- [ ] Build and launch something of my own
-- [ ] Keep creating
+## 🏆 Achievements & Activities
+
+<p align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎬 Creative Work | Video editing & visual content |
+| 💻 Development | Software & web development projects |
+| 🚀 Building | Digital projects & experiments |
+| 🎨 Content Creation | Photography, cinematography & editing |
+
+</p>
 
 ---
 
-## 🌐 Let's Connect
+<!-- ======================= CERTIFICATIONS ======================= -->
 
-<div align="center">
+## 📜 Certifications & Learning
 
-<a href="https://www.linkedin.com/in/saksham-kannojia-435873381/">
-<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Kannojia-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Currently focused on continuously expanding knowledge across:
 
-<a href="https://www.instagram.com/skeditz.fx/">
-<img src="https://img.shields.io/badge/Instagram-@skeditz.fx-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+- 💻 Computer Science
+- 🌐 Web Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🎨 Creative Technology
+
+---
+
+<!-- ======================= CODING PROFILES ======================= -->
+
+## 💻 Coding & Developer Profiles
+
+<p align="center">
 
 <a href="https://github.com/SakshamKannojia">
-<img src="https://img.shields.io/badge/GitHub-SakshamKannojia-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-SakshamKannojia-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
-### 💭 Build. Experiment. Create. Repeat.
+## 📊 GitHub Analytics
 
-<br>
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamKannojia&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=AAAAAA" height="180"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:0f0f0f&height=100&section=footer" />
+<p align="center">
+ 
+</p>
 
-</div>
+---
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  
+</p>
+
+---
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Web Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Development
+
+Building:
+  - Digital Experiences
+  - Web Projects
+  - Creative Technology Projects
+
+Exploring:
+  - AI
+  - Modern Web Technologies
+  - Creative Technology
+  - Visual Storytelling
+
+Open To:
+  - Collaborations
+  - Interesting Projects
+  - Development Opportunities
+  - Creative-Tech Opportunities
